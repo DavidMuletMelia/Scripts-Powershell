@@ -28,6 +28,8 @@ Un detalle importante es que debemos ejecutar Powershell en como administrador p
 
 ![Image text](https://github.com/DavidMuletMelia/Scripts-Powershell/blob/main/PowerShell3/3/left.PNG)
 
+#### LEFT
 ![Image text](https://github.com/DavidMuletMelia/Scripts-Powershell/blob/main/PowerShell3/3/left2.PNG)
 
+#### RIGHT
 ![Image text](https://github.com/DavidMuletMelia/Scripts-Powershell/blob/main/PowerShell3/3/right.PNG)
